@@ -1,0 +1,20 @@
+name: Feature request
+description: Something Quicx should do
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What are you trying to do, and what stops you today?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you would like
+      description: How it could work. If it affects memory use or speed, how you would measure it.
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What you tried instead

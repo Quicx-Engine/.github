@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://quicx.dev/docs/installation
+    about: Installation, configuration, the QXP protocol, the Java client and the CLI.
+  - name: Report a security vulnerability
+    url: https://github.com/Quicx-Engine/.github/blob/main/SECURITY.md
+    about: Please report security problems privately.
